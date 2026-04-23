@@ -1,0 +1,18 @@
+h1{
+    color:chartreuse;
+    font-style:italic;
+}
+h2{
+    font-style:oblique;
+}
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    background-color: aqua;
+    border-width: 10px;
+    border-color: blueviolet;
+}
+p{
+    font-size:72px;
+}
